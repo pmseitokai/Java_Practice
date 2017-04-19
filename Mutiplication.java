@@ -17,7 +17,9 @@ public class Mutiplication {
         System.out.print("Input number : ");
         int number = sc.nextInt();
         for (int i = 1; i <= 25; i++) {
+            
             System.out.println(number+" x "+i+" = "+(number*i));
+        
         }
         
     }
