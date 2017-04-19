@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package myprogram;
+package myapp.Java_Practice.Java_Practice;
 
 import java.util.Scanner;
 
