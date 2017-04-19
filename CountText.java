@@ -48,8 +48,6 @@ public class CountText {
 
         String spaceTostar = text.replaceAll(" ", "*");
 
-        
-        
         int count = 0;
         String sb = "";
         for (char aToA : spaceTostar.toCharArray()) {
